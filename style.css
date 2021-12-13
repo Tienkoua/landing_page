@@ -117,3 +117,43 @@ color: #E5E7EB;
     margin: -40px 40px 0 0;
     font-size: 20px;
 }
+
+.action{
+    padding:100px 200px;
+}
+
+.signup{
+    background-color: #3882F6;
+    display: flex;
+    border-radius: 15px;
+}
+
+.call .sign{
+    margin-top: -15px;
+    font-size: 14px;
+    color:azure;
+}
+.call .calla{
+    color: #F9FAF8;
+    font-size: 20px;
+}
+.signup .call,.signup .callb{
+    margin: 20px auto;
+}
+.callb .btn1{
+    padding: 5px 30px 5px 30px;
+    background-color: #3882F6;
+    border-radius: 8px;
+    border:2px solid#F9FAF8;
+    color:white;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.cpright{
+    background-color:#1F2937;
+    padding: 10px 0;
+    text-align: center;
+    color: #F9FAF8;
+}
