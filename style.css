@@ -68,3 +68,35 @@ color: #E5E7EB;
     font-size: 14px;
     font-weight: bold;
 }
+
+.info{
+    padding: 0 0 100px 0;
+}
+.info>h2{
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.box .box1{
+    
+    max-width: 130px;
+}
+
+
+.box1 .form1{
+    height: 130px;
+    max-width: 130px;
+    border:3px solid #3882F6;
+    border-radius: 15px;
+
+}
+.box1 .info1{
+    font-size: 12px;
+    text-align: center;
+}
