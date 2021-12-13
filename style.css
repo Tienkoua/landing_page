@@ -100,3 +100,20 @@ color: #E5E7EB;
     font-size: 12px;
     text-align: center;
 }
+
+.quote{
+    background-color: #E5E7EB;
+    padding: 100px 185px;
+    display: flex;
+    flex-direction: column;
+}
+.quote .qtext{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+.quote .qauthor{
+    align-self: flex-end;
+    margin: -40px 40px 0 0;
+    font-size: 20px;
+}
